@@ -1,0 +1,7 @@
+{
+  "name": "Lawrence & Sons Roofing",
+  "description": "Premier residential and commercial roofing contractor in Phoenix, Arizona. Expert shingle, standing-seam metal, and tile roofing solutions with guaranteed craftsmanship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

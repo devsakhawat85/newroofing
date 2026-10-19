@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+:root {
+  --color-charcoal: #20262D;
+  --color-navy: #17283F;
+  --color-copper: #B97745;
+  --color-copper-dark: #9E6234;
+  --color-copper-light: #C98858;
+  --color-offwhite: #F7F6F2;
+  --color-slate: #68717B;
+}
+
+html {
+  font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  scroll-behavior: smooth;
+}
+
+.font-display {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  letter-spacing: -0.025em;
+}
+
+.font-editorial {
+  font-family: 'Playfair Display', Georgia, serif;
+}
+
+/* Ensure focus states are accessible and clean */
+*:focus-visible {
+  outline: 2px solid #B97745;
+  outline-offset: 2px;
+}
